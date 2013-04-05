@@ -1,0 +1,29 @@
+This is the story of why I wrote this script.
+
+One morning I logged into my Facebook to find that UC Berkeley Complements had posted a wonderful status about me:
+
+"
+Abhinav Vadrevu
+Just wanted to let you know that you're a bo$$. And an inspiration to so many people! You're destined for greatness, so keep being awesome =]
+"
+
+I was thrilled to see that someone felt that way about me, and I wanted to thank them for such a lovely complement.  But alas, UC Berkeley Complements is completely anonymous.  I would never find out who said it.
+
+... Or would I?
+
+I noticed that the message ended with a =].  It was a peculiar smiley.  Not a lot of people use that smiley.  I thought I might be able to narrow down the suspects if I did a quick search for that substring in my inbox.
+
+I thought long and hard about doing that.  Searching for it would ruin the fun of an anonymous complement.  Besides, the person probably wanted to remain anonymous for a reason.  But then again, I wouldn't have to tell anyone.  All I wanted to do was to thank the person.  So I decided to do it.
+
+Unfortunately, Facebook didn't let me search for that substring - I guess it only likes alphanumeric characters in its queries.
+
+So I resorted to writing this program.
+
+I searched over 5000 messages, and found the substring 4 times.
+
+All by the same person.
+
+I went on to thank her for such a lovely complement :)
+
+The End
+=]
